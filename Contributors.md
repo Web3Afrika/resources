@@ -2,7 +2,7 @@
 
 You'll need to have some basic experience with Git, Markdown and GitHub
 
-> Check out the following tutorials:
+> Check out these tutorials:
   * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
   * [Markdown Tutorial](https://www.markdowntutorial.com/)
   * [Introduction to git](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)  
@@ -10,6 +10,8 @@ You'll need to have some basic experience with Git, Markdown and GitHub
   * [Popular git commands and how to use them](https://rogerdudler.github.io/git-guide/)
   * [Git commands in depth](https://medium.com/@george.seif94/a-full-tutorial-on-how-to-use-github-88466bac7d42)
   * [How to Create a Markdown Table](https://www.makeuseof.com/tag/create-markdown-table/)
+
+You can also use [Notion](https://notion.so) to write, then copy the markdown text OR use [this converter](https://codebeautify.org/markdown-to-html) to convert HTML to Markdown to contribute.
 
 
 ## Follow this few steps fi you are confident of your markdown skills
@@ -30,6 +32,6 @@ You'll need to have some basic experience with Git, Markdown and GitHub
 
 +  Push your changes to your forked repo, ```git push origin branchName```
 
-+ Finally,make a pull request and wait for it to be merged.
++ Finally, make a pull request and wait for it to be merged.
 
 Cheers!.
